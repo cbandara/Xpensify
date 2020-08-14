@@ -1,4 +1,4 @@
-Live site: https://keen-booth-fb80b1.netlify.app/
+Live site: https://xpensify-app.netlify.app/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
